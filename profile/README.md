@@ -16,7 +16,8 @@ This project is focused on some useful command line tools for developers. Exampl
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Thanks to
+<!-- ## Thanks to
 
 **Evolution Host**
 <a href="https://evolution-host.com/"><img src="https://evolution-host.com/images/branding/newLogoBlack.png" align="middle" width="64"/></a>
+-->
